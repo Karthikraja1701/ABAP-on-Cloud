@@ -1,0 +1,2 @@
+We can inherit a DCL and with nnotaion we can provide access to CDS using DCL 
+@accesscontrol.authorisationcheck: #NotALLOWED or #NOTREQUIRED, #MANDATORY
